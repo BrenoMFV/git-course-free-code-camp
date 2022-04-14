@@ -5,6 +5,6 @@ Repo for learning a little bit more of git from FreeCodeCamp's course
 Ch-ch-ch-change and face the strange
 
 
-## Local Devlopment
+## Local Development
 
 1. Open index.html in your browser.
